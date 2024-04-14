@@ -1,5 +1,3 @@
-# Yorranan Costa
-
 - **Nome de usuário:** yorranan
 - **LinkedIn:** [yorranan](https://www.linkedin.com/in/yorranan/)
 - **Born:** 2003
