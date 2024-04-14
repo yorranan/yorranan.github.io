@@ -1,3 +1,5 @@
+# Bacharelando em Ciência da Computação
+
 - **Nome de usuário:** yorranan
 - **LinkedIn:** [yorranan](https://www.linkedin.com/in/yorranan/)
 - **Born:** 2003
@@ -5,6 +7,9 @@
 ## Sobre Mim
 
 Sou aluno do último ano do curso de Ciência da Computação na Universidade Estadual do Centro-Oeste e formado no Curso Técnico em Informática pelo Instituto Federal do Amapá. Procuro aperfeiçoar minha formação e aplicar os conhecimentos adquiridos no mercado de trabalho.
+
+
+## Projetos
 
 Durante o período da gradução participei ou participo de alguns projetos, entre eles:
 

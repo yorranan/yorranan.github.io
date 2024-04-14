@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Yorranan
-logo: assets\perfil.png
-description: Estudante de Ciência da Computação
+logo: ./assets/perfil.png
+#description: 
