@@ -1,9 +1,11 @@
-___
+---
 layout: post
 title: "Hello World!"
 categories: misc
-author: Yorranan Neves de Almeida Costa
-___
+author: 
+- Yorranan Neves de Almeida Costa
+meta: "Springfield"
+---
 
 Uma tradição da comunidade de programação é todo primeiro código escrito em uma linguagem ser uma impressão em tela da frase "*Hello World!*" ou "Olá mundo" em português, então, assim como em uma linguagem de programação não poderia de deixar de fazer meu *Hello World!*.
 

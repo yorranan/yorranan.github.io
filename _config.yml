@@ -1,4 +1,4 @@
-title: Yorra's Blog
+title: um yorranan
 author:
   name: Yorranan
   email: yorranan.costa@outlook.com
@@ -47,7 +47,7 @@ minima:
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%d %b, %Y"
+  date_format: "%d-%b-%Y"
 
   # Generate social links in footer.
   social_links:
