@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Yorranan Neves de Almeida Costa criou esse site com o objetivo de compartilhar assuntos do qual tem interesse. Ele é graduando em Ciência da Computação pela Universidade Estadual do Centro-Oeste. Esse é um blog pessoal e não profissional, sendo assim, opiniões pessoais do autor podem estar contidas em postagens.
+ 
+Você pode me encontrar em minhas redes sociais:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Instagram](https://www.instagram.com/umyorranan/)
+[VSCO](https://vsco.co/umyorras/gallery)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Também pode ver *curriculum vitae* e LinkedIn:
 
+[Lattes CV](http://lattes.cnpq.br/3290907733831654)
+[LinkedIn](https://www.linkedin.com/in/yorranan/)
 
-[jekyll-organization]: https://github.com/jekyll
+Ou ouvir minhas playlists no [Spotify](https://open.spotify.com/user/wgokzbussvfl84nlsxh5imvzd?si=68b9500669a949f8)
+
+Esse blog usa o tema [minima](https://github.com/jekyll/minima) que pertence a base de temas do 
+[Jekyll](https://github.com/jekyll), você pode obter mais informações sobre customização e sobre o uso básico em [jekyllrb.com](https://jekyllrb.com/) e na documentação do [minima](https://github.com/jekyll/minima/blob/v2.5.0/README.md).
