@@ -1,5 +1,3 @@
-# About Yorranan
-
 Hi! This is Yorranan's personal page. If you want to know more about me, you can explore the following links:
 
 - **CVs:** Available at [LinkedIn](https://linkedin.com/in/yorranan/) and [Lattes](http://lattes.cnpq.br/3290907733831654)
