@@ -6,7 +6,4 @@ Hi! This is Yorranan's personal page. If you want to know more about me, you can
 
 For professional contact, please send an email to [5702174007@unicentro.edu.br](mailto:5702174007@unicentro.edu.br) or [yorranan.costa@outlook.com](mailto:yorranan.costa@outlook.com).
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="yorranan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/yorranan?trk=profile-badge">Yorranan Costa</a></div>
               
