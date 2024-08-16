@@ -6,4 +6,4 @@ Hi! This is Yorranan's personal page. If you want to know more about me, you can
 
 For professional contact, please send an email to [5702174007@unicentro.edu.br](mailto:5702174007@unicentro.edu.br) or [yorranan.costa@outlook.com](mailto:yorranan.costa@outlook.com).
 
-Look my [Course Completion Work Documentation](Documentacao_INPUT_LASeD.md).
+About my [Course Completion Work (Pt-BR)](tcc.md).
